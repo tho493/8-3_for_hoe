@@ -412,7 +412,7 @@ const MessageCard = ({ marginBottom }) => {
                                 repeatType: "reverse"
                             }}
                         >
-                            祝你三八妇女节快乐!
+                            祝你越来越漂亮，每天都开心， 一切美好终将属于你
                         </motion.div>
                     </FinalMessage>
                 </FullscreenOverlay>
