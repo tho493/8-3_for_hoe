@@ -412,7 +412,7 @@ const MessageCard = ({ marginBottom }) => {
                                 repeatType: "reverse"
                             }}
                         >
-                            8/3 vui vẻee
+                            祝你三八妇女节快乐!
                         </motion.div>
                     </FinalMessage>
                 </FullscreenOverlay>
