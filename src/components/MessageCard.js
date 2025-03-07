@@ -64,7 +64,7 @@ const Message = styled(motion.p)`
   line-height: 1.7;
   color: #333;
   margin-bottom: 25px;
-  font-family: 'Comic Sans MS', 'Bubblegum Sans', 'Indie Flower', cursive;
+  font-family: 'Arial', 'Helvetica', sans-serif;
   text-align: center;
   position: relative;
   
